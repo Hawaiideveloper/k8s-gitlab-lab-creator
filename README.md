@@ -13,7 +13,7 @@ The professional who loves his/her job and wants to host gitLab locally
 Its a easy to learn and user-friendly devops tool made for creating repositories that can do pipelines and releases
 
 ### Why create a Locally hosted gitLab?
-Because some people use gitlab at work, and do not want to break the production environment but at the sametime want to test and see the limits of gitlab
+Because some people use gitlab at work, and do not want to break the production or try questionable or destructive events on any work environment that could impact their employment; but at the sametime want to test and see the limits of gitlab
 
 ### How do you create one?
 We will be using k8 and helm charts after we create a vagrant file
