@@ -48,3 +48,5 @@ So that the host only networks can be in any range, not just 192.168.56.0/21 as 
 
 ### Install [Kubernetes Cluster](https://alta3.com/blog/singlevmk8s)
 ### Deploy [Gitlab](https://docs.gitlab.com/charts/installation/) on it
+
+
